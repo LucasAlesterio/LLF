@@ -1,0 +1,5 @@
+(define (start)
+(define WIDTH-PX (* SEG-SIZE 30))
+(define HEIGHT-PX (* SEG-SIZE 20))
+(img+scene (posn 1 1 ) (text (number->string (pontos)) 28 "red") scene))
+)
